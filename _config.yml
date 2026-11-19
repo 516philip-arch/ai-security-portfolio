@@ -2,3 +2,7 @@ title: AI 보안 학습 포트폴리오
 description: 6개월 AI 보안 독학 — 실습 기록과 점검 보고서
 theme: minima
 lang: ko
+
+# 각 글의 첫 제목(#)을 페이지 제목으로 쓰고, 본문에서는 빼서 두 번 나오지 않게 함
+titles_from_headings:
+  strip_title: true
