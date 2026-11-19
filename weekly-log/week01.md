@@ -8,7 +8,7 @@
 
 | 요일 | 계획 | 실제 | 결과물 |
 |---|---|---|---|
-| 월 (1.5h) | OWASP LLM Top 10(2025판) 개요 읽기, 10개 항목을 한 줄씩 내 말로 요약 | | [notes/owasp-llm-top10.md](../notes/owasp-llm-top10.md) |
+| 월 (1.5h) | OWASP LLM Top 10(2025판) 개요 읽기, 10개 항목을 한 줄씩 내 말로 요약 | 2026-11-19 완료. 책 1장 'AI 앱의 속을 들여다보기'(LLM, 프롬프트, 시스템 프롬프트, RAG, 도구와 에이전트) 원고 검토, 퀴즈 4/5 | | [notes/owasp-llm-top10.md](../notes/owasp-llm-top10.md) |
 | 화 (1.5h) | 실습 계정 만들기(TryHackMe, PortSwigger, Lakera), 이 저장소 만들기 | | 저장소 첫 커밋 |
 | 수 (1.5h) | Lakera Gandalf / Agent Breaker 첫 단계들. 시도한 프롬프트와 결과 기록 | | 시도 기록 메모 |
 | 목 (1.5h) | 프롬프트 인젝션 개념 정리: 직접 vs 간접, 왜 막기 어려운지 | | [notes/prompt-injection.md](../notes/prompt-injection.md) |
