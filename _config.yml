@@ -6,3 +6,10 @@ lang: ko
 # 각 글의 첫 제목(#)을 페이지 제목으로 쓰고, 본문에서는 빼서 두 번 나오지 않게 함
 titles_from_headings:
   strip_title: true
+
+# 맨 위 메뉴에는 폴더 4개만 보이게 함
+header_pages:
+  - weekly-log/README.md
+  - writeups/README.md
+  - reports/README.md
+  - notes/README.md
