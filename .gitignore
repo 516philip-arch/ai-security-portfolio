@@ -1,0 +1,23 @@
+# 비밀 값 — 절대 올리지 않기
+.env
+.env.*
+*.key
+*.pem
+secrets*
+*api_key*
+*apikey*
+
+# 실습 도구가 만드는 파일 (요청·응답 원본에 민감한 값이 섞일 수 있음)
+*.burp
+*.pcap
+*.pcapng
+*.har
+
+# 운영체제가 만드는 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# GitHub Pages 미리보기용
+_site/
+.jekyll-cache/
