@@ -6,4 +6,4 @@
 
 | 날짜 | 사이트 | 주제 | OWASP LLM 항목 |
 |---|---|---|---|
-| | | | |
+| 2026-11-20 | PortSwigger | [Exploiting LLM APIs with excessive agency](portswigger-llm-excessive-agency.md) | LLM06 과도한 위임 |
