@@ -13,7 +13,7 @@
 | 칸 | 계획 | 실제 | 결과물 |
 |---|---|---|---|
 | 2-1 (1.5h) | 주소를 치면 무슨 일이 생기나: 큰 그림 ([MDN 웹의 동작 방식](https://developer.mozilla.org/ko/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works)) | 2026-11-20 완료. 클라이언트·서버, 프로토콜, TCP와 IP, DNS, 패킷, 브라우저가 알아서 파일을 가져오는 일, 교차 사이트 스크립팅(XSS)과 콘텐츠 보안 정책(CSP). 퀴즈 4.5/5 | 책 2부 원고 (11장) |
-| 2-2 (1.5h) | IP 주소, 도메인, DNS ([Cloudflare: DNS란?](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)) | | 책 2부 원고 |
+| 2-2 (1.5h) | IP 주소, 도메인, DNS ([Cloudflare: DNS란?](https://www.cloudflare.com/ko-kr/learning/dns/what-is-dns/)) | 2026-11-21 완료. IP 주소·도메인 이름(오른쪽부터 읽기)·DNS 조회 8단계·캐시와 TTL, 캐시 포이즈닝·TCP와 UDP·DNSSEC·DoT/DoH·VPN과 DNS 누출. 검토 중 두 장으로 나눴다가 다시 한 장으로 합침. 퀴즈 4.5/5 | 책 12장 |
 | A3 (1.5h) | 책 3장 '새어 나가는 비밀' (OWASP LLM02, LLM07) | | 책 3장 |
 | 2-3 (1.5h) | TryHackMe "DNS in Detail" + 내 컴퓨터에서 `nslookup` | | |
 | 2-4 (1.5h) | AI 보안 소식 하나 읽고 3줄 정리 | | 아래 '보안 소식' |
