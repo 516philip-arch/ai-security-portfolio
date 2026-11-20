@@ -13,7 +13,7 @@
 | 수 (1.5h) | Lakera Gandalf / Agent Breaker 첫 단계들. 시도한 프롬프트와 결과 기록 | 2026-11-19 완료. Agent Breaker(Gandalf 후속) Cycling Coach Level 1·2 통과 | 시도 기록은 개인용으로만 보관 |
 | 목 (1.5h) | 프롬프트 인젝션 개념 정리: 직접 vs 간접, 왜 막기 어려운지 | 2026-11-19 완료. 책 2장 '말로 하는 해킹, 프롬프트 인젝션'(직접·간접 인젝션, 그림 속 지시, 탈옥, 페이로드 분할, 막기 어려운 이유, 심층 방어) 원고 검토, 퀴즈 3.5/4 | [notes/prompt-injection.md](../notes/prompt-injection.md) |
 | 금 | 쉬는 날 (밀린 것이 있을 때만 따라잡기) | | |
-| 토 (4h) | PortSwigger 'Web LLM attacks' 읽기, 첫 랩 1~2개 (Burp Suite Community 설치 포함) | ① 2026-11-20 완료 (1.5h). 책 10장 '직접 속여 보기' 앞부분(API, 과도한 위임, 옛 웹 공격 잇기, 메일 전달 규칙, 학습 자료 유출, 막는 법) 원고 검토, 퀴즈 5/5. ② Burp 설치 ③ 랩 남음 | 랩 풀이 초안 |
+| 토 (4h) | PortSwigger 'Web LLM attacks' 읽기, 첫 랩 1~2개 (Burp Suite Community 설치 포함) | ① 2026-11-20 완료 (1.5h). 책 10장 '직접 속여 보기' 앞부분(API, 과도한 위임, 옛 웹 공격 잇기, 메일 전달 규칙, 학습 자료 유출, 막는 법) 원고 검토, 퀴즈 5/5. ② 2026-11-20 완료 (1h). Burp Suite Community 설치, 책 10장 Burp 소개(쪽지·프록시·가로채기·Repeater, 화면이 막아도 쪽지는 고칠 수 있다), 퀴즈 4/4. ③ 2026-11-20 완료 (1.5h). 'Exploiting LLM APIs with excessive agency' 랩 성공(2번째 시도), 채팅이 WebSockets history로 오감을 확인, 책 10장 첫 랩 이야기·맺음 원고. 1-5 칸 끝 | 랩 풀이 초안 |
 | 일 (5h) | TryHackMe 무료 입문 룸 1개(1.5h), write-up 1편 완성, 주간 회고, 2주차 계획 조정 | | write-up 1편, 이 기록 |
 
 ## TryHackMe 배운 점 3줄
