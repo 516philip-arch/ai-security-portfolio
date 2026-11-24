@@ -12,7 +12,7 @@
 
 | 칸 | 계획 | 실제 | 결과물 |
 |---|---|---|---|
-| 3-1 (1.5h) | 보안 3원칙: 기밀성, 무결성, 가용성 ([NIST 용어집](https://csrc.nist.gov/glossary/term/confidentiality)) | | 책 2부 원고 |
+| 3-1 (1.5h) | 보안 3원칙: 기밀성, 무결성, 가용성 ([NIST 용어집](https://csrc.nist.gov/glossary/term/confidentiality)) | 2026-11-24. 책 16장 '보안이 지키는 세 가지'(주문 기록의 세 가지 나쁜 일, 웹과 AI 예, 디도스 보충, 셋이 부딪치는 계정 잠금), 퀴즈 5/5 | 책 16장 |
 | 3-2 (1.5h) | 인증(누구인지 확인)과 권한 부여(무엇을 해도 되는지), 2단계 인증 ([Cloudflare: authn과 authz](https://www.cloudflare.com/ko-kr/learning/access-management/authn-vs-authz/)) | | 책 2부 원고 |
 | A6 (1.5h) | 책 6장 '손발이 너무 많은 AI' (OWASP LLM06 과도한 위임). 3-2 권한 부여와 이어짐 | | 책 6장 |
 | 3-3 (1.5h) | TryHackMe "Security Principles" 앞부분 (답 먼저 짐작하기) | | 개인 실습 기록 |
