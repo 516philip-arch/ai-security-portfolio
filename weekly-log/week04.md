@@ -12,7 +12,7 @@
 
 | 칸 | 계획 | 실제 | 결과물 |
 |---|---|---|---|
-| 4-1 (1.5h) | 클라이언트와 서버: 웹사이트 뒤편의 구조 ([MDN 클라이언트-서버 개요](https://developer.mozilla.org/ko/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)) | | |
+| 4-1 (1.5h) | 클라이언트와 서버: 웹사이트 뒤편의 구조 ([MDN 클라이언트-서버 개요](https://developer.mozilla.org/ko/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)) | 2026-11-26. 책 22장 '쪽지를 받은 서버 안에서 일어나는 일'을 쓰고 저자 검토 끝. 새 방식 퀴즈(객관식 5 + 서술 2) 7/7 | 책 22장 원고, 그림 22-1·22-2 |
 | 4-2 (1.5h) | 비밀번호는 어떻게 저장되나: 해시와 암호화의 차이 ([OWASP 비밀번호 저장 가이드(영어)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)) | | |
 | A8 (1.5h) | 책 8장 '그럴듯한 거짓말' ([OWASP LLM09 허위 정보](https://genai.owasp.org/llmrisk/llm092025-misinformation/)) | | |
 | 4-3 (1.5h) | 실습: 파이썬 3줄로 해시 만들기, 글자 하나만 바꿔도 결과가 완전히 바뀌는 것 확인 ([파이썬 공식 자습서](https://docs.python.org/ko/3/tutorial/index.html)) | | |
