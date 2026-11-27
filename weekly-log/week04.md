@@ -15,7 +15,7 @@
 | 4-1 (1.5h) | 클라이언트와 서버: 웹사이트 뒤편의 구조 ([MDN 클라이언트-서버 개요](https://developer.mozilla.org/ko/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview)) | 2026-11-26. 책 22장 '쪽지를 받은 서버 안에서 일어나는 일'을 쓰고 저자 검토 끝. 새 방식 퀴즈(객관식 5 + 서술 2) 7/7 | 책 22장 원고, 그림 22-1·22-2 |
 | 4-2 (1.5h) | 비밀번호는 어떻게 저장되나: 해시와 암호화의 차이 ([OWASP 비밀번호 저장 가이드(영어)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)) | 2026-11-27. 책 23장 '되돌릴 수 있는 암호화, 되돌릴 수 없는 해시'를 쓰고 저자 검토 끝. 퀴즈(객관식 6 + 서술 1) 6.5/7 | 책 23장 원고, 그림 23-1·23-2 |
 | A8 (1.5h) | 책 8장 '그럴듯한 거짓말' ([OWASP LLM09 허위 정보](https://genai.owasp.org/llmrisk/llm092025-misinformation/)) | 2026-11-27. 책 8장(허위 정보·환각·과신, 구글 AI 개요, 에어캐나다 챗봇 판정, 가짜 판결, 정해진 문장과 자동 확인)을 쓰고 저자 검토 끝. 퀴즈(객관식 6 + 서술 1) 6.5/7 | 책 8장 원고, 그림 8-1·8-2 |
-| 4-3 (1.5h) | 실습: 파이썬 3줄로 해시 만들기, 글자 하나만 바꿔도 결과가 완전히 바뀌는 것 확인 ([파이썬 공식 자습서](https://docs.python.org/ko/3/tutorial/index.html)) | | |
+| 4-3 (1.5h) | 실습: 파이썬 3줄로 해시 만들기, 글자 하나만 바꿔도 결과가 완전히 바뀌는 것 확인 ([파이썬 공식 자습서](https://docs.python.org/ko/3/tutorial/index.html)) | 2026-11-27. 책 24장 '파이썬으로 직접 만들어 보는 지문'을 쓰고 저자 검토 끝. hashlib으로 SHA-256 지문 만들기, 글자 하나 바꾸기, 내려받은 파일 비교, 솔트, PBKDF2, 해커가 지문을 맞히는 방법. 퀴즈(객관식 6 + 서술 1) 7/7 | 책 24장 원고 |
 | 4-4 (1.5h) | AI·프롬프트 인젝션 사고 소식 1건 (Claude가 후보 2~3개) | | |
 | A9 (1.5h) | 책 9장 '끝없이 먹는 AI' ([OWASP LLM10 무제한 소비](https://genai.owasp.org/llmrisk/llm102025-unbounded-consumption/)). 3-1 가용성과 이어짐 | | |
 | 4-5 (4h) | ① "웹페이지가 화면에 뜨기까지" 전 과정 그림: 주소 입력 → DNS → 연결 → HTTPS → 요청 → 서버 → 응답 → 화면 (2h) ② 책의 `[확인 필요]` 4곳 처리, 16장과 의료 챗봇 사례 다시 보기 (1h) ③ Git으로 직접 커밋 연습 (1h) | | |
